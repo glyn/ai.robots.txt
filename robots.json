@@ -41,6 +41,13 @@
         "frequency": "Unclear at this time.",
         "description": "Apple has a secondary user agent, Applebot-Extended ... [that is] used to train Apple's foundation models powering generative AI features across Apple products, including Apple Intelligence, Services, and Developer Tools."
     },
+    "Awario": {
+        "operator": "Awario",
+        "respect": "Unclear at this time.",
+        "function": "AI Data Scrapers",
+        "frequency": "Unclear at this time.",
+        "description": "Awario is an AI data scraper operated by Awario. It's not currently known to be artificially intelligent or AI-related. If you think that's incorrect or can provide more detail about its purpose, please contact us. More info can be found at https://darkvisitors.com/agents/agents/awario"
+    },
     "Brightbot 1.0": {
         "operator": "Browsing.ai",
         "respect": "Unclear at this time.",
@@ -97,12 +104,33 @@
         "frequency": "Unclear at this time.",
         "description": "cohere-training-data-crawler is a web crawler operated by Cohere to download training data for its LLMs (Large Language Models) that power its enterprise AI products. More info can be found at https://darkvisitors.com/agents/agents/cohere-training-data-crawler"
     },
+    "Cotoyogi": {
+        "operator": "Research Organization of Information and Systems",
+        "respect": "Unclear at this time.",
+        "function": "AI Data Scrapers",
+        "frequency": "Unclear at this time.",
+        "description": "Cotoyogi is an AI data scraper operated by Research Organization of Information and Systems. It's not currently known to be artificially intelligent or AI-related. If you think that's incorrect or can provide more detail about its purpose, please contact us. More info can be found at https://darkvisitors.com/agents/agents/cotoyogi"
+    },
     "Crawlspace": {
         "operator": "[Crawlspace](https://crawlspace.dev)",
         "respect": "[Yes](https://news.ycombinator.com/item?id=42756654)",
         "function": "Scrapes data",
         "frequency": "Unclear at this time.",
         "description": "Provides crawling services for any purpose, probably including AI model training."
+    },
+    "Datenbank Crawler": {
+        "operator": "Datenbank",
+        "respect": "Unclear at this time.",
+        "function": "AI Data Scrapers",
+        "frequency": "Unclear at this time.",
+        "description": "Datenbank Crawler is an AI data scraper operated by Datenbank. It's not currently known to be artificially intelligent or AI-related. If you think that's incorrect or can provide more detail about its purpose, please contact us. More info can be found at https://darkvisitors.com/agents/agents/datenbank-crawler"
+    },
+    "Devin": {
+        "operator": "Devin AI",
+        "respect": "Unclear at this time.",
+        "function": "AI Assistants",
+        "frequency": "Unclear at this time.",
+        "description": "Devin is an AI assistant operated by Devin AI. It's not currently known to be artificially intelligent or AI-related. If you think that's incorrect or can provide more detail about its purpose, please contact us. More info can be found at https://darkvisitors.com/agents/agents/devin"
     },
     "Diffbot": {
         "operator": "[Diffbot](https://www.diffbot.com/)",
@@ -118,12 +146,26 @@
         "frequency": "Unclear at this time.",
         "description": "DuckAssistBot is used by DuckDuckGo's DuckAssist feature to fetch content and generate realtime AI answers to user searches. More info can be found at https://darkvisitors.com/agents/agents/duckassistbot"
     },
+    "Echobot Bot": {
+        "operator": "Echobox",
+        "respect": "Unclear at this time.",
+        "function": "AI Data Scrapers",
+        "frequency": "Unclear at this time.",
+        "description": "Echobot Bot is an AI data scraper operated by Echobox. It's not currently known to be artificially intelligent or AI-related. If you think that's incorrect or can provide more detail about its purpose, please contact us. More info can be found at https://darkvisitors.com/agents/agents/echobot-bot"
+    },
     "FacebookBot": {
         "operator": "Meta/Facebook",
         "respect": "[Yes](https://developers.facebook.com/docs/sharing/bot/)",
         "function": "Training language models",
         "frequency": "Up to 1 page per second",
         "description": "Officially used for training Meta \"speech recognition technology,\" unknown if used to train Meta AI specifically."
+    },
+    "Factset_spyderbot": {
+        "operator": "Factset",
+        "respect": "Unclear at this time.",
+        "function": "AI Data Scrapers",
+        "frequency": "Unclear at this time.",
+        "description": "Factset_spyderbot is an AI data scraper operated by Factset. It's not currently known to be artificially intelligent or AI-related. If you think that's incorrect or can provide more detail about its purpose, please contact us. More info can be found at https://darkvisitors.com/agents/agents/factset-spyderbot"
     },
     "FriendlyCrawler": {
         "description": "Unclear who the operator is; but data is used for training/machine learning.",
@@ -175,11 +217,11 @@
         "respect": "No"
     },
     "ICC-Crawler": {
-        "description": "Use the collected data for artificial intelligence technologies; provide data to third parties, including commercial companies; those companies can use the data for their own business.",
-        "frequency": "No information.",
-        "function": "Scrapes data to train and support AI technologies.",
         "operator": "[NICT](https://nict.go.jp)",
-        "respect": "Yes"
+        "respect": "Yes",
+        "function": "Scrapes data to train and support AI technologies.",
+        "frequency": "No information.",
+        "description": "Use the collected data for artificial intelligence technologies; provide data to third parties, including commercial companies; those companies can use the data for their own business."
     },
     "ImagesiftBot": {
         "description": "Once images and text are downloaded from a webpage, ImageSift analyzes this data from the page and stores the information in an index. Our web intelligence products use this index to enable search and retrieval of similar images.",
@@ -223,6 +265,13 @@
         "frequency": "Unclear at this time.",
         "description": "Meta-ExternalFetcher is dispatched by Meta AI products in response to user prompts, when they need to fetch an individual links. More info can be found at https://darkvisitors.com/agents/agents/meta-externalfetcher"
     },
+    "MistralAI-User": {
+        "operator": "Mistral",
+        "respect": "Unclear at this time.",
+        "function": "AI Assistants",
+        "frequency": "Unclear at this time.",
+        "description": "MistralAI-User is an AI assistant operated by Mistral. It's not currently known to be artificially intelligent or AI-related. If you think that's incorrect or can provide more detail about its purpose, please contact us. More info can be found at https://darkvisitors.com/agents/agents/mistralai-user"
+    },
     "OAI-SearchBot": {
         "operator": "[OpenAI](https://openai.com)",
         "respect": "[Yes](https://platform.openai.com/docs/bots)",
@@ -265,12 +314,26 @@
         "frequency": "Takes action based on user prompts.",
         "description": "Operated by Perplexity to obtain results in response to user queries."
     },
+    "Perplexity\u2011User": {
+        "operator": "Perplexity",
+        "respect": "Unclear at this time.",
+        "function": "AI Assistants",
+        "frequency": "Unclear at this time.",
+        "description": "Perplexity\u2011User is an AI assistant operated by Perplexity. It's not currently known to be artificially intelligent or AI-related. If you think that's incorrect or can provide more detail about its purpose, please contact us. More info can be found at https://darkvisitors.com/agents/agents/perplexityuser"
+    },
     "PetalBot": {
-        "description": "Operated by Huawei to provide search and AI assistant services.",
-        "frequency": "No explicit frequency provided.",
-        "function": "Used to provide recommendations in Hauwei assistant and AI search services.",
         "operator": "[Huawei](https://huawei.com/)",
-        "respect": "Yes"
+        "respect": "Yes",
+        "function": "Used to provide recommendations in Hauwei assistant and AI search services.",
+        "frequency": "No explicit frequency provided.",
+        "description": "Operated by Huawei to provide search and AI assistant services."
+    },
+    "QualifiedBot": {
+        "operator": "Qualified",
+        "respect": "Unclear at this time.",
+        "function": "AI Data Scrapers",
+        "frequency": "Unclear at this time.",
+        "description": "QualifiedBot is an AI data scraper operated by Qualified.com, Inc.. It's not currently known to be artificially intelligent or AI-related. If you think that's incorrect or can provide more detail about its purpose, please contact us. More info can be found at https://darkvisitors.com/agents/agents/qualifiedbot"
     },
     "Scrapy": {
         "description": "\"AI and machine learning applications often need large amounts of quality data, and web data extraction is a fast, efficient way to build structured data sets.\"",
@@ -313,6 +376,13 @@
         "function": "Scrapes data for business data sets and machine learning models.",
         "operator": "[Velen Crawler](https://velen.io)",
         "respect": "[Yes](https://velen.io)"
+    },
+    "WARDBot": {
+        "operator": "WEBSPARK",
+        "respect": "Unclear at this time.",
+        "function": "AI Data Scrapers",
+        "frequency": "Unclear at this time.",
+        "description": "WARDBot is an AI data scraper operated by WEBSPARK. It's not currently known to be artificially intelligent or AI-related. If you think that's incorrect or can provide more detail about its purpose, please contact us. More info can be found at https://darkvisitors.com/agents/agents/wardbot"
     },
     "Webzio-Extended": {
         "operator": "Unclear at this time.",
