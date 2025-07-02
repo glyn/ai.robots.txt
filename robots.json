@@ -76,6 +76,20 @@
         "frequency": "Only when prompted by a user.",
         "description": "Used by plugins in ChatGPT to answer queries based on user input."
     },
+    "Claude-SearchBot": {
+        "operator": "Unclear at this time.",
+        "respect": "Unclear at this time.",
+        "function": "AI Search Crawlers",
+        "frequency": "Unclear at this time.",
+        "description": "Claude-SearchBot is used to create an index of websites that can be surfaced as results in Anthropic's Claude AI assistant search feature. More info can be found at https://darkvisitors.com/agents/agents/claude-searchbot"
+    },
+    "Claude-User": {
+        "operator": "Unclear at this time.",
+        "respect": "Unclear at this time.",
+        "function": "AI Assistants",
+        "frequency": "Unclear at this time.",
+        "description": "Claude-User is dispatched by Anthropic's Claude AI assistant in response to user prompts, when it needs to fetch content to include in its answers. More info can be found at https://darkvisitors.com/agents/agents/claude-user"
+    },
     "Claude-Web": {
         "operator": "[Anthropic](https://www.anthropic.com)",
         "respect": "Unclear at this time.",
@@ -174,6 +188,13 @@
         "operator": "Unknown",
         "respect": "[Yes](https://imho.alex-kunz.com/2024/01/25/an-update-on-friendly-crawler)"
     },
+    "Gemini-Deep-Research": {
+        "operator": "Unclear at this time.",
+        "respect": "Unclear at this time.",
+        "function": "AI Assistants",
+        "frequency": "Unclear at this time.",
+        "description": "Gemini-Deep-Research is the agent responsible for collecting and scanning resources used in Google Gemini's Deep Research feature, which acts as a personal research assistant. More info can be found at https://darkvisitors.com/agents/agents/gemini-deep-research"
+    },
     "Google-Extended": {
         "operator": "Google",
         "respect": "[Yes](https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers)",
@@ -271,6 +292,13 @@
         "function": "AI Assistants",
         "frequency": "Unclear at this time.",
         "description": "MistralAI-User is an AI assistant operated by Mistral. It's not currently known to be artificially intelligent or AI-related. If you think that's incorrect or can provide more detail about its purpose, please contact us. More info can be found at https://darkvisitors.com/agents/agents/mistralai-user"
+    },
+    "netEstate Imprint Crawler": {
+        "operator": "netEstate",
+        "respect": "Unclear at this time.",
+        "function": "AI Data Scrapers",
+        "frequency": "Unclear at this time.",
+        "description": "netEstate Imprint Crawler is an AI data scraper operated by netEstate. If you think this is incorrect or can provide additional detail about its purpose, please contact us. More info can be found at https://darkvisitors.com/agents/agents/netestate-imprint-crawler"
     },
     "OAI-SearchBot": {
         "operator": "[OpenAI](https://openai.com)",
